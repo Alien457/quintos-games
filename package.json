@@ -1,6 +1,6 @@
 {
-	"author": "quinton-ashley",
-	"name": "quintos-template",
+	"author": "Alien457",
+	"name": "quintos-games",
 	"description": "Learn to code by making games using QuintOS!",
 	"dependencies": {
 		"java2js": "^1.1.2",
@@ -11,7 +11,6 @@
 		"quintos": "^5.0.0"
 	},
 	"license": "GPL-3.0-only",
-	"main": "server.js",
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/quinton-ashley/quintos-template.git"
@@ -24,5 +23,5 @@
 		"postversion": "git push",
 		"relink": "npm link ../../pkg/quintos"
 	},
-	"version": "1.1.15"
+	"version": "1.1.16"
 }
